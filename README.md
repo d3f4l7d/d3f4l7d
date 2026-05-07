@@ -4,7 +4,8 @@
 
 ## Common Code Usage 👾
 
-Replace my username "d3f4l7d" to your username if you execute .sh files.
+> [!IMPORTANT]
+> Replace my username "d3f4l7d" to your username if you execute .sh files.
 
 <!--
 Bio will be uploaded here...
