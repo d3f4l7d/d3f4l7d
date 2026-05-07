@@ -8,7 +8,10 @@
 > Replace my username "d3f4l7d" to your username if you execute .sh files.
 
 > [!WARNING]
-> Some .sh needs manual configuration (See echo lines of each .sh)
+> Some .sh needs manual configuration with your preferred texteditor (I love Vim. Yours? I don't know.)
+
+> [!TIP]
+> See echo lines of each .sh files.
 
 <!--
 Bio will be uploaded here...
