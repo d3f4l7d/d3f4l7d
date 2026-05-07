@@ -1,4 +1,6 @@
-## Hi there 🫠
+## Hi there 👋
+
+Bio will be uploaded here...
 
 <!--
 **d3f4l7d/d3f4l7d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 #include <iostream>
 using namespace std;
 int main() {
     cout << "A Biology PhD Student ⊕ A Robotics Geek" << endl;
     }
+-->
