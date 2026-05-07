@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on ...
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "A Biology PhD Student ⊕ A Robotics Geek" << endl;
+    }
