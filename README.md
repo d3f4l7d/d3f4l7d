@@ -1,8 +1,25 @@
-## Hi there 👋
+## Welcome Back To My Github Website 👽
 
-Bio will be uploaded here...
+https://github.com/d3f4l7d/ will give you some random informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY! I will sparsely update its contents for my research.
+
+
+
+
 
 <!--
+Bio will be uploaded here...
+-->
+
+<!--
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "A Biology PhD Student ⊕ A Robotics Geek" << endl;
+    }
+-->
+
+<!--
+## Hi there 👋
 **d3f4l7d/d3f4l7d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,12 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-#include <iostream>
-using namespace std;
-int main() {
-    cout << "A Biology PhD Student ⊕ A Robotics Geek" << endl;
-    }
 -->
