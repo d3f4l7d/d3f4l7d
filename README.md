@@ -1,6 +1,6 @@
 ## Welcome Back To My Github Website 👽
 
-https://github.com/d3f4l7d/ will give you some random informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY! I will sparsely update its contents for my research. BTW I am a research fellow (PhD candidate of neurobiology && engineering).
+https://github.com/d3f4l7d/ will give you some Linux-related informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY! I will sparsely update its contents for my research. BTW I am a research fellow (PhD candidate of neurobiology && engineering).
 
 
 
