@@ -15,7 +15,7 @@
 
 ## Core Idea
 
-The core idea of this webpage is that "A Fool with a Tool is still a Fool, and Only a Fool Blames a Tool"
+The core idea of this webpage is that "A Fool with a Tool is still a Fool, and Only a Fool Blames a Tool". But if there're some problems on my codes, pull request me.
 <!--
 Bio will be uploaded here...
 -->
