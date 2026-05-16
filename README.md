@@ -1,6 +1,6 @@
 ## Welcome Back To My Github Webpage 👽
 
-✨ https://github.com/d3f4l7d/ ✨ will give you some Linux 🐧 related informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY 🫡. I will sparsely update its contents for my research. BTW I am a research fellow (PhD candidate 👨‍🎓 of neurobiology && engineering). See You Soon 👋
+✨ https://github.com/d3f4l7d/ ✨ will give you some Linux 🐧 (1000% Arch) related informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY 🫡. I will sparsely update its contents for my research. BTW I am a research fellow (PhD candidate 👨‍🎓 of neurobiology && engineering, specifically working on proof of animal prediction). See You Soon 👋
 
 ## Common Code Usage 👾
 
