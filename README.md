@@ -5,7 +5,7 @@
 ## Common Code Usage 👾
 
 > [!IMPORTANT]
-> Replace my username "d3f4l7d" to your username if you execute .sh files.
+> Replace my username "d3f4l7d" or "d3f4l7" to your username if you execute .sh files.
 
 > [!WARNING]
 > Some .sh needs manual configuration with your preferred texteditor (I love Vim. Yours? I don't know.)
