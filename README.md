@@ -1,6 +1,6 @@
 ## Welcome Back To My Github Webpage 👽
 
-✨ https://github.com/d3f4l7d/ ✨ will give you some Linux 🐧 (1000% Arch) related informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY 🫡. I will sparsely update its contents for my research. BTW I am a research fellow (PhD candidate 👨‍🎓 of neurobiology && engineering, specifically working on proof of animal's and manipulator's prediction). See You Soon 👋
+✨ https://github.com/d3f4l7d/ ✨ will give you some Linux 🐧 (1000% Arch Linux) related informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY 🫡. I will sparsely update its contents for my research. BTW I am a research fellow (PhD candidate 👨‍🎓 of neurobiology && engineering, specifically working on proof between animal's and manipulator's prediction). See You Soon 👋
 
 ## Common Code Usage 👾
 
@@ -14,7 +14,7 @@
 > See echo lines of each .sh files.
 
 > [!CAUTION]
-> Any act of unauthorized access could violate the laws on your country (e.g., [CFAA](https://www.justice.gov/jm/jm-9-48000-computer-fraud)). Any of tools here must be used on your own systems to enhance your system security (check your system's exposed port, monitor nearby wi-fi device, deactivate malicious connection etc...).
+> Any act of unauthorized access could violate the laws on your country (e.g., [CFAA](https://www.justice.gov/jm/jm-9-48000-computer-fraud)). Any of tools introduced on my webpage must be used on your own systems to enhance your system's security.
 
 ## Core Idea
 
