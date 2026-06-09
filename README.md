@@ -5,10 +5,10 @@
 ## Common Code Usage 👾
 
 > [!IMPORTANT]
-> Replace my username "d3f4l7d" or "d3f4l7" to your username if you execute .sh files.
+> Directory "d3f4l7d" is just named by my name. Change it if you want.
 
 > [!WARNING]
-> Some .sh needs manual configuration with your preferred texteditor (I love Vim. Yours? I don't know.)
+> Some process needs manual configuration with your preferred texteditor (I love Vim. Yours? I don't know.)
 
 > [!TIP]
 > See echo lines of each .sh files.
