@@ -1,6 +1,6 @@
 ## Welcome Back To My Github Webpage 👽
-
-✨ https://github.com/d3f4l7d/ ✨ will give you some Linux 🐧 (1000% Arch Linux) related informations for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY 🫡. I will sparsely update its contents for my research. BTW I am a research fellow (PhD candidate 👨‍🎓 of neurobiology && engineering, specifically working on proof between animal's and manipulator's prediction). See You Soon 👋
+Keywords | Arch Linux, Automatic Install, Cyber Security
+✨ https://github.com/d3f4l7d/ ✨ will give you some automatic install scripts for Linux 🐧 (1000% Arch Linux) for ME, probably not for YOU. But if you're interested in it, YOU ARE MY BOY 🫡. I will sparsely update its contents for my use. See You Soon 👋
 
 ## Common Code Usage 👾
 
